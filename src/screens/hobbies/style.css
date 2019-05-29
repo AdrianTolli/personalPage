@@ -1,0 +1,4 @@
+.hobbiesContainer {
+  display: flex;
+  justify-content: space-between;
+}

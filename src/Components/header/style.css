@@ -1,0 +1,33 @@
+.Header {
+  background-color: #07393c;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #90ddf0;
+  padding: 6px;
+  height: 52px;
+}
+
+.Header-select {
+  display: flex;
+  flex-direction: row;
+}
+
+.defaultButton {
+  margin: 6px auto;
+  padding: 6px 12px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 2px;
+  background: #07393c;
+  color: #90ddf0;
+  transition: all 0.25s ease;
+}
+
+.defaultButton:hover {
+  color: #07393c;
+  background-color: #90ddf0;
+}

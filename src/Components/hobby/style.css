@@ -1,0 +1,15 @@
+.avatar {
+  height: auto;
+  width: auto;
+  width: 300px;
+}
+
+.hobbyContainer {
+  margin: 12px;
+  padding: 6px;
+  background-color: #2c666e;
+  color: #90ddf0;
+  display: flex;
+  justify-content: space-between;
+  width: 550px;
+}
